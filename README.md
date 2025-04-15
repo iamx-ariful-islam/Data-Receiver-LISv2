@@ -10,7 +10,7 @@ A project to build a Python and PyQT5-based desktop application and it's directl
 
 * **Live data receive from analyzer**
 
-## Task Requirments & Testing Environment
+## Task Requirements & Testing Environment
 this project is developed using all new os, software and tools.
 
 * **Operating System :** Windows10, Kali Linux2022.4 and MacOS Sierra 10.12

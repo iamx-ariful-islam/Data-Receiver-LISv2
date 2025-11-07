@@ -40,9 +40,9 @@ sudo pip install -r requirements.txt
 Here are some screenshots of the `Data Receiver LISv2` project:
 
 **Main Page**<br/>
-![Main Page](screenshots/main.png)<br/>
+![Main Page](screenshots/main.PNG)<br/>
 **Output Page**<br/>
-![Output Page](screenshots/result.png)
+![Output Page](screenshots/result.PNG)
 
 
 ## Contributing
@@ -77,3 +77,4 @@ The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
 
 > “Good design is about making things simple yet significant”  
 > — *Md. Ariful Islam*
+

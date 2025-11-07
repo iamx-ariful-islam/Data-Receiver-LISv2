@@ -3,7 +3,7 @@
 
 2. Create a folder and set name. (Exp. folder_name "Project").
 
-3. Unzip "Data Receiver LISv2.zip" file into "Project" folder.
+3. Unzip "Data-Receiver-LISv2.zip" file into "Project" folder.
 
 4. Open "Command Prompt" into "Project"  folder.
 
@@ -20,8 +20,8 @@
     cd ..
     cd ..
 
-8. Goto "Data Receiver LISv2".
-    cd "Data Receiver LISv2"
+8. Goto "Data-Receiver-LISv2".
+    cd "Data-Receiver-LISv2"
 
 9. Then install project dependencies
     pip install -r requirements.txt
@@ -40,3 +40,4 @@ Note:
 
 
 Enjoy thyself with Project...! & If any query or any trouble then contact or see the video
+

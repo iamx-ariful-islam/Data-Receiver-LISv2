@@ -10,7 +10,7 @@ A project to build a Python and PyQT5-based desktop application and it's directl
 
 * **Live data receive from analyzer**
 
-## Task Requirements & Testing Environment
+## Task Requirments & Testing Environment
 this project is developed using all new os, software and tools.
 
 * **Operating System :** Windows10, Kali Linux2022.4 and MacOS Sierra 10.12
@@ -28,40 +28,52 @@ First [download](https://www.python.org/downloads/), install and configure [pyth
 ## Notes
 The `requirements.txt` file, lists of all the Python libraries that my "**_hematology analyzer data receiver lis system_**" depends on and installs those packages from the file:
 
-```
+```bash
 pip install -r requirements.txt
-```
-
-### **or**
-
-```
+# or
 sudo pip install -r requirements.txt
 ```
 
-## Project screenshots
-**Main**<br/>
-<img alt="main" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/blob/main/screenshots/main.PNG" />
 
-**Output**<br/>
-<img alt="output" src="https://github.com/iam-ariful-islam/Data-Receiver-LISv2/blob/main/screenshots/result.PNG" />
+## Screenshots
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/lSAVfkJ4Psw)](https://youtu.be/lSAVfkJ4Psw)
+Here are some screenshots of the `Data Receiver LISv2` project:
 
-<br/>
+**Main Page**<br/>
+![Main Page](screenshots/main.png)<br/>
+**Output Page**<br/>
+![Output Page](screenshots/result.png)
+
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions, suggestions, and feedback are always welcome! ❤️
+To contribute:
 
-Please make sure to update tests as appropriate.
+1. Fork the repository
+1. Create a new branch (`feature/new-feature`)
+1. Commit your changes
+1. Push and submit a Pull Request
+
+💬 You can also open an issue if you’d like to discuss a feature or report a bug.
+
 
 ## For more or connect with me
 
-[**Github**](https://github.com/iam-ariful-islam)
-[**Twitter**](https://twitter.com/am_ariful_islam)
-[**LinkedIn**](https://bd.linkedin.com/in/im-ariful-islam)
-[**Facebook**](https://www.facebook.com/jonakisoft.net/)
+<p align='center'>
+  <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/GitHub-iamx--ariful--islam-black?style=for-the-badge&logo=github" /></a>&nbsp;&nbsp;
+  <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Ariful%20Islam-blue?style=for-the-badge&logo=linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-Md.%20Ariful%20Islam-black?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/iamx.ariful.islam/"><img src="https://img.shields.io/badge/Facebook-MD.%20Ariful%20Islam-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
 
 ## License
 
 The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
+
+
+## Thank You for Visiting!
+
+> “Good design is about making things simple yet significant”  
+> — *Md. Ariful Islam*

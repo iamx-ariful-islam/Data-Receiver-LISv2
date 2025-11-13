@@ -23,7 +23,7 @@ First [download](https://www.python.org/downloads/), install and configure [pyth
 * Windows installation
 * Kali linux installation
 * Mac installation
----
+
 
 ## Notes
 The `requirements.txt` file, lists of all the Python libraries that my "**_hematology analyzer data receiver lis system_**" depends on and installs those packages from the file:
@@ -77,4 +77,5 @@ The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
 
 > “Good design is about making things simple yet significant”  
 > — *Md. Ariful Islam*
+
 
